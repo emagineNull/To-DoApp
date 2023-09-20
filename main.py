@@ -16,7 +16,7 @@ tasklist = []
 top = Tk()
 
 
-L1 = Label(top, text="Input")
+L1 = Label(top, text="Task: ")
 E1 = Entry(top, bd=5)
 T1 = Text(top, height=30, width=40)
 
